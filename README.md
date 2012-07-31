@@ -3,7 +3,7 @@ LinuxJump
 
 Clipper migration to Linux Repository.
 
-Clipper was a DOS oriented dBase compiler in the 80's. Was developed by Nantucked, 
+Clipper was a DOS oriented dBase compiler in the 80's. Was developed by Nantucket, 
 and was his flagship during almost 15 years. Later Computer Associates 
 buyed Clipper, and it continued its migration towards a new operating 
 system (and new paradigma), but it did suceed.
